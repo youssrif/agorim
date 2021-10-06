@@ -1,0 +1,28 @@
+.list-container h2{
+    font-family: Merriweather ;
+    font-size: 20px;
+    font-weight: bold;
+}
+.list-container p{
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: normal;
+  
+
+
+}
+.list-container ul{
+   
+   margin-top: -15px;
+   
+   list-style-position: inside;
+   padding-left: 0;
+   
+}
+.list-container  li{
+   
+     font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: normal;
+   
+}

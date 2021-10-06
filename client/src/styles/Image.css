@@ -1,0 +1,33 @@
+.image-container{
+    display: flex;
+   
+    justify-content: flex-end;
+    background-image: url("../assets/img1.jpg");
+    height: 100%;
+    background-size: cover;
+    width: 100%;
+    
+}
+.en{
+    font-family: Merriweather;
+    font-size: 16px;
+    font-weight: bold;
+    margin:10px;
+}
+.fr{
+    font-family: Merriweather;
+    font-size: 16px;
+    font-weight: normal;
+    color: #707070;
+    margin:10px;
+}
+@media screen and (max-width: 1105px){
+.image-container{
+    background-image: auto;
+}
+}
+@media screen and (max-width:971px){
+    .image-container{
+        background-image: none;
+    }
+}

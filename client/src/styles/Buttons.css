@@ -1,0 +1,18 @@
+.buttons-container{
+    margin-top: 10px;
+}
+.button1{
+    border-color: #ADADAD;
+    font-family: Merriweather;
+    font-size: 24px;
+    padding: 10px;
+}
+.button2{
+    border: #AD976E;
+    background-color:#AD976E ;
+    font-family: Merriweather;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+
+}
